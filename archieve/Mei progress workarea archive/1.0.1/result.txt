@@ -1,0 +1,6 @@
+The codes in 1.0.1 version folder are raw.
+the result can be half satisfaction.
+But running on Samsung Tablet old device is running
+satisfy, I think memory allocation needed to be improve
+
+Christopher Emmanuelle Visperas
