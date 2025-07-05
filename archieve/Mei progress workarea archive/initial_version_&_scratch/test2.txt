@@ -1,0 +1,571 @@
+
+Step 1/1000
+Error Counts: 8, Loss: 0.0371561
+Step 2/1000
+Error Counts: 8, Loss: 0.0368943
+Step 3/1000
+Error Counts: 8, Loss: 0.0365052
+Step 4/1000
+Error Counts: 8, Loss: 0.0360553
+Step 5/1000
+Error Counts: 8, Loss: 0.0355268
+Step 6/1000
+Error Counts: 8, Loss: 0.0351847
+Step 7/1000
+Error Counts: 8, Loss: 0.0349852
+Step 8/1000
+Error Counts: 8, Loss: 0.0349341
+Step 9/1000
+Error Counts: 8, Loss: 0.0350736
+Step 10/1000
+Error Counts: 8, Loss: 0.035298
+Step 11/1000
+Error Counts: 8, Loss: 0.0355811
+Step 12/1000
+Error Counts: 8, Loss: 0.0360069
+Step 13/1000
+Error Counts: 8, Loss: 0.0365581
+Step 14/1000
+Error Counts: 8, Loss: 0.0372296
+Step 15/1000
+Error Counts: 8, Loss: 0.0378894
+Step 16/1000
+Error Counts: 8, Loss: 0.0386807
+Step 17/1000
+Error Counts: 8, Loss: 0.0395505
+Step 18/1000
+Error Counts: 8, Loss: 0.0405043
+Step 19/1000
+Error Counts: 8, Loss: 0.0415395
+Step 20/1000
+Error Counts: 8, Loss: 0.0426477
+Step 21/1000
+Error Counts: 8, Loss: 0.0438168
+Step 22/1000
+Error Counts: 8, Loss: 0.0450313
+Step 23/1000
+Error Counts: 8, Loss: 0.046274
+Step 24/1000
+Error Counts: 8, Loss: 0.0475265
+Step 25/1000
+Error Counts: 8, Loss: 0.04862
+Step 26/1000
+Error Counts: 8, Loss: 0.0495068
+Step 27/1000
+Error Counts: 8, Loss: 0.0504273
+Step 28/1000
+Error Counts: 8, Loss: 0.0513754
+Step 29/1000
+Error Counts: 8, Loss: 0.0523442
+Step 30/1000
+Error Counts: 8, Loss: 0.0533264
+Step 31/1000
+Error Counts: 8, Loss: 0.0543148
+Step 32/1000
+Error Counts: 8, Loss: 0.0553028
+Step 33/1000
+Error Counts: 8, Loss: 0.0562844
+Step 34/1000
+Error Counts: 8, Loss: 0.0572547
+Step 35/1000
+Error Counts: 8, Loss: 0.0582099
+Step 36/1000
+Error Counts: 8, Loss: 0.0591469
+Step 37/1000
+Error Counts: 8, Loss: 0.0600637
+Step 38/1000
+Error Counts: 8, Loss: 0.0609585
+Step 39/1000
+Error Counts: 8, Loss: 0.0618298
+Step 40/1000
+Error Counts: 8, Loss: 0.0626763
+Step 41/1000
+Error Counts: 8, Loss: 0.0634966
+Step 42/1000
+Error Counts: 8, Loss: 0.0642894
+Step 43/1000
+Error Counts: 8, Loss: 0.0650531
+Step 44/1000
+Error Counts: 8, Loss: 0.0657864
+Step 45/1000
+Error Counts: 8, Loss: 0.0664879
+Step 46/1000
+Error Counts: 8, Loss: 0.0671569
+Step 47/1000
+Error Counts: 8, Loss: 0.0677924
+Step 48/1000
+Error Counts: 8, Loss: 0.0683944
+Step 49/1000
+Error Counts: 8, Loss: 0.068963
+Step 50/1000
+Error Counts: 8, Loss: 0.0694986
+Step 51/1000
+Error Counts: 8, Loss: 0.0700025
+Step 52/1000
+Error Counts: 8, Loss: 0.0704758
+Step 53/1000
+Error Counts: 8, Loss: 0.0709205
+Step 54/1000
+Error Counts: 8, Loss: 0.0713383
+Step 55/1000
+Error Counts: 8, Loss: 0.0717316
+Step 56/1000
+Error Counts: 8, Loss: 0.0721026
+Step 57/1000
+Error Counts: 8, Loss: 0.0724535
+Step 58/1000
+Error Counts: 8, Loss: 0.072787
+Step 59/1000
+Error Counts: 8, Loss: 0.0731051
+Step 60/1000
+Error Counts: 8, Loss: 0.0734104
+Step 61/1000
+Error Counts: 8, Loss: 0.0737049
+Step 62/1000
+Error Counts: 8, Loss: 0.0739907
+Step 63/1000
+Error Counts: 8, Loss: 0.0742699
+Step 64/1000
+Error Counts: 8, Loss: 0.0745442
+Step 65/1000
+Error Counts: 8, Loss: 0.0748154
+Step 66/1000
+Error Counts: 8, Loss: 0.0750849
+Step 67/1000
+Error Counts: 8, Loss: 0.0753542
+Step 68/1000
+Error Counts: 8, Loss: 0.0756246
+Step 69/1000
+Error Counts: 8, Loss: 0.0758972
+Step 70/1000
+Error Counts: 8, Loss: 0.0761729
+Step 71/1000
+Error Counts: 8, Loss: 0.0762191
+Step 72/1000
+Error Counts: 8, Loss: 0.075783
+Step 73/1000
+Error Counts: 8, Loss: 0.0750157
+Step 74/1000
+Error Counts: 8, Loss: 0.0740984
+Step 75/1000
+Error Counts: 8, Loss: 0.0732417
+Step 76/1000
+Error Counts: 8, Loss: 0.0726881
+Step 77/1000
+Error Counts: 8, Loss: 0.0726887
+Step 78/1000
+Error Counts: 8, Loss: 0.0734526
+Step 79/1000
+Error Counts: 8, Loss: 0.0750831
+Step 80/1000
+Error Counts: 8, Loss: 0.0775284
+Step 81/1000
+Error Counts: 8, Loss: 0.0793146
+Step 82/1000
+Error Counts: 8, Loss: 0.0794865
+Step 83/1000
+Error Counts: 8, Loss: 0.0788255
+Step 84/1000
+Error Counts: 8, Loss: 0.0776316
+Step 85/1000
+Error Counts: 8, Loss: 0.0761433
+Step 86/1000
+Error Counts: 8, Loss: 0.0746189
+Step 87/1000
+Error Counts: 8, Loss: 0.0733598
+Step 88/1000
+Error Counts: 8, Loss: 0.0726881
+Step 89/1000
+Error Counts: 8, Loss: 0.0728835
+Step 90/1000
+Error Counts: 8, Loss: 0.0740984
+Step 91/1000
+Error Counts: 8, Loss: 0.0762941
+Step 92/1000
+Error Counts: 8, Loss: 0.0792405
+Step 93/1000
+Error Counts: 8, Loss: 0.0825874
+Step 94/1000
+Error Counts: 8, Loss: 0.0859701
+Step 95/1000
+Error Counts: 8, Loss: 0.0890991
+Step 96/1000
+Error Counts: 8, Loss: 0.0917998
+Step 97/1000
+Error Counts: 8, Loss: 0.0940079
+Step 98/1000
+Error Counts: 8, Loss: 0.095738
+Step 99/1000
+Error Counts: 8, Loss: 0.0970489
+Step 100/1000
+Error Counts: 8, Loss: 0.098016
+Step 101/1000
+Error Counts: 8, Loss: 0.0987136
+Step 102/1000
+Error Counts: 8, Loss: 0.0992069
+Step 103/1000
+Error Counts: 8, Loss: 0.0995485
+Step 104/1000
+Error Counts: 8, Loss: 0.0997789
+Step 105/1000
+Error Counts: 8, Loss: 0.0999281
+Step 106/1000
+Error Counts: 8, Loss: 0.100018
+Step 107/1000
+Error Counts: 8, Loss: 0.100063
+Step 108/1000
+Error Counts: 8, Loss: 0.100073
+Step 109/1000
+Error Counts: 8, Loss: 0.100055
+Step 110/1000
+Error Counts: 8, Loss: 0.10001
+Step 111/1000
+Error Counts: 8, Loss: 0.0999404
+Step 112/1000
+Error Counts: 8, Loss: 0.0998432
+Step 113/1000
+Error Counts: 8, Loss: 0.0997146
+Step 114/1000
+Error Counts: 8, Loss: 0.0995485
+Step 115/1000
+Error Counts: 8, Loss: 0.0993359
+Step 116/1000
+Error Counts: 8, Loss: 0.0990651
+Step 117/1000
+Error Counts: 8, Loss: 0.0987206
+Step 118/1000
+Error Counts: 8, Loss: 0.0982827
+Step 119/1000
+Error Counts: 8, Loss: 0.0977263
+Step 120/1000
+Error Counts: 8, Loss: 0.0970208
+Step 121/1000
+Error Counts: 8, Loss: 0.0961291
+Step 122/1000
+Error Counts: 8, Loss: 0.0950086
+Step 123/1000
+Error Counts: 8, Loss: 0.093613
+Step 124/1000
+Error Counts: 8, Loss: 0.0918967
+Step 125/1000
+Error Counts: 8, Loss: 0.0898241
+Step 126/1000
+Error Counts: 8, Loss: 0.0873835
+Step 127/1000
+Error Counts: 8, Loss: 0.0846072
+Step 128/1000
+Error Counts: 8, Loss: 0.081596
+Step 129/1000
+Error Counts: 8, Loss: 0.0785392
+Step 130/1000
+Error Counts: 8, Loss: 0.0757181
+Step 131/1000
+Error Counts: 8, Loss: 0.073478
+Step 132/1000
+Error Counts: 8, Loss: 0.0721589
+Step 133/1000
+Error Counts: 8, Loss: 0.0720019
+Step 134/1000
+Error Counts: 8, Loss: 0.0730668
+Step 135/1000
+Error Counts: 8, Loss: 0.075205
+Step 136/1000
+Error Counts: 8, Loss: 0.0781052
+Step 137/1000
+Error Counts: 8, Loss: 0.0813872
+Step 138/1000
+Error Counts: 8, Loss: 0.084699
+Step 139/1000
+Error Counts: 8, Loss: 0.0877791
+Step 140/1000
+Error Counts: 8, Loss: 0.0904748
+Step 141/1000
+Error Counts: 8, Loss: 0.0927282
+Step 142/1000
+Error Counts: 8, Loss: 0.0945473
+Step 143/1000
+Error Counts: 8, Loss: 0.0959781
+Step 144/1000
+Error Counts: 8, Loss: 0.0970817
+Step 145/1000
+Error Counts: 8, Loss: 0.097921
+Step 146/1000
+Error Counts: 8, Loss: 0.0985532
+Step 147/1000
+Error Counts: 8, Loss: 0.0990262
+Step 148/1000
+Error Counts: 8, Loss: 0.099379
+Step 149/1000
+Error Counts: 8, Loss: 0.0996419
+Step 150/1000
+Error Counts: 8, Loss: 0.099838
+Step 151/1000
+Error Counts: 8, Loss: 0.0999848
+Step 152/1000
+Error Counts: 8, Loss: 0.100095
+Step 153/1000
+Error Counts: 8, Loss: 0.100179
+Step 154/1000
+Error Counts: 8, Loss: 0.100243
+Step 155/1000
+Error Counts: 8, Loss: 0.100292
+Step 156/1000
+Error Counts: 8, Loss: 0.10033
+Step 157/1000
+Error Counts: 8, Loss: 0.10036
+Step 158/1000
+Error Counts: 8, Loss: 0.100384
+Step 159/1000
+Error Counts: 8, Loss: 0.100431
+Step 160/1000
+Error Counts: 8, Loss: 0.100476
+Step 161/1000
+Error Counts: 8, Loss: 0.10049
+Step 162/1000
+Error Counts: 8, Loss: 0.100493
+Step 163/1000
+Error Counts: 8, Loss: 0.100494
+Step 164/1000
+Error Counts: 8, Loss: 0.100494
+Step 165/1000
+Error Counts: 8, Loss: 0.100494
+Step 166/1000
+Error Counts: 8, Loss: 0.100494
+Step 167/1000
+Error Counts: 8, Loss: 0.100494
+Step 168/1000
+Error Counts: 8, Loss: 0.100494
+Step 169/1000
+Error Counts: 8, Loss: 0.100494
+Step 170/1000
+Error Counts: 8, Loss: 0.100494
+Step 171/1000
+Error Counts: 8, Loss: 0.100494
+Step 172/1000
+Error Counts: 8, Loss: 0.100494
+Step 173/1000
+Error Counts: 8, Loss: 0.100494
+Step 174/1000
+Error Counts: 8, Loss: 0.100494
+Step 175/1000
+Error Counts: 8, Loss: 0.100494
+Step 176/1000
+Error Counts: 8, Loss: 0.100494
+Step 177/1000
+Error Counts: 8, Loss: 0.100494
+Step 178/1000
+Error Counts: 8, Loss: 0.100494
+Step 179/1000
+Error Counts: 8, Loss: 0.100494
+Step 180/1000
+Error Counts: 8, Loss: 0.100494
+Step 181/1000
+Error Counts: 8, Loss: 0.100494
+Step 182/1000
+Error Counts: 8, Loss: 0.100494
+Step 183/1000
+Error Counts: 8, Loss: 0.100494
+Step 184/1000
+Error Counts: 8, Loss: 0.100494
+Step 185/1000
+Error Counts: 8, Loss: 0.100494
+Step 186/1000
+Error Counts: 8, Loss: 0.100494
+Step 187/1000
+Error Counts: 8, Loss: 0.100494
+Step 188/1000
+Error Counts: 8, Loss: 0.100494
+Step 189/1000
+Error Counts: 8, Loss: 0.100494
+Step 190/1000
+Error Counts: 8, Loss: 0.100494
+Step 191/1000
+Error Counts: 8, Loss: 0.100494
+Step 192/1000
+Error Counts: 8, Loss: 0.100494
+Step 193/1000
+Error Counts: 8, Loss: 0.100494
+Step 194/1000
+Error Counts: 8, Loss: 0.100494
+Step 195/1000
+Error Counts: 8, Loss: 0.100494
+Step 196/1000
+Error Counts: 8, Loss: 0.100494
+Step 197/1000
+Error Counts: 8, Loss: 0.100494
+Step 198/1000
+Error Counts: 8, Loss: 0.100494
+Step 199/1000
+Error Counts: 8, Loss: 0.100494
+Step 200/1000
+Error Counts: 8, Loss: 0.100494
+Step 201/1000
+Error Counts: 8, Loss: 0.100494
+Step 202/1000
+Error Counts: 8, Loss: 0.100494
+Step 203/1000
+Error Counts: 8, Loss: 0.100494
+Step 204/1000
+Error Counts: 8, Loss: 0.100494
+Step 205/1000
+Error Counts: 8, Loss: 0.100494
+Step 206/1000
+Error Counts: 8, Loss: 0.100494
+Step 207/1000
+Error Counts: 8, Loss: 0.100494
+Step 208/1000
+Error Counts: 8, Loss: 0.100494
+Step 209/1000
+Error Counts: 8, Loss: 0.100494
+Step 210/1000
+Error Counts: 8, Loss: 0.100494
+Step 211/1000
+Error Counts: 8, Loss: 0.100494
+Step 212/1000
+Error Counts: 8, Loss: 0.100494
+Step 213/1000
+Error Counts: 8, Loss: 0.100494
+Step 214/1000
+Error Counts: 8, Loss: 0.100494
+Step 215/1000
+Error Counts: 8, Loss: 0.100494
+Step 216/1000
+Error Counts: 8, Loss: 0.100494
+Step 217/1000
+Error Counts: 8, Loss: 0.100494
+Step 218/1000
+Error Counts: 8, Loss: 0.100494
+Step 219/1000
+Error Counts: 8, Loss: 0.100494
+Step 220/1000
+Error Counts: 8, Loss: 0.100494
+Step 221/1000
+Error Counts: 8, Loss: 0.100494
+Step 222/1000
+Error Counts: 8, Loss: 0.100494
+Step 223/1000
+Error Counts: 8, Loss: 0.100494
+Step 224/1000
+Error Counts: 8, Loss: 0.100494
+Step 225/1000
+Error Counts: 8, Loss: 0.100494
+Step 226/1000
+Error Counts: 8, Loss: 0.100494
+Step 227/1000
+Error Counts: 8, Loss: 0.100494
+Step 228/1000
+Error Counts: 8, Loss: 0.100494
+Step 229/1000
+Error Counts: 8, Loss: 0.100494
+Step 230/1000
+Error Counts: 8, Loss: 0.100494
+Step 231/1000
+Error Counts: 8, Loss: 0.100493
+Step 232/1000
+Error Counts: 8, Loss: 0.100493
+Step 233/1000
+Error Counts: 8, Loss: 0.10049
+Step 234/1000
+Error Counts: 8, Loss: 0.100484
+Step 235/1000
+Error Counts: 8, Loss: 0.100467
+Step 236/1000
+Error Counts: 8, Loss: 0.100418
+Step 237/1000
+Error Counts: 8, Loss: 0.100276
+Step 238/1000
+Error Counts: 8, Loss: 0.0998628
+Step 239/1000
+Error Counts: 8, Loss: 0.0986329
+Step 240/1000
+Error Counts: 8, Loss: 0.0948033
+Step 241/1000
+Error Counts: 8, Loss: 0.0825663
+Step 242/1000
+Error Counts: 8, Loss: 0.0755498
+Step 243/1000
+Error Counts: 8, Loss: 0.0951211
+Step 244/1000
+Error Counts: 8, Loss: 0.0999715
+Step 245/1000
+Error Counts: 8, Loss: 0.100452
+Step 246/1000
+Error Counts: 8, Loss: 0.100489
+Step 247/1000
+Error Counts: 8, Loss: 0.100493
+Step 248/1000
+Error Counts: 8, Loss: 0.100494
+Step 249/1000
+Error Counts: 8, Loss: 0.100494
+Step 250/1000
+Error Counts: 8, Loss: 0.100494
+Step 251/1000
+Error Counts: 8, Loss: 0.100494
+Step 252/1000
+Error Counts: 8, Loss: 0.100494
+Step 253/1000
+Error Counts: 8, Loss: 0.100494
+Step 254/1000
+Error Counts: 8, Loss: 0.100494
+Step 255/1000
+Error Counts: 8, Loss: 0.100494
+Step 256/1000
+Error Counts: 8, Loss: 0.100494
+Step 257/1000
+Error Counts: 8, Loss: 0.100494
+Step 258/1000
+Error Counts: 8, Loss: 0.100494
+Step 259/1000
+Error Counts: 8, Loss: 0.100494
+Step 260/1000
+Error Counts: 8, Loss: 0.100494
+Step 261/1000
+Error Counts: 8, Loss: 0.100494
+Step 262/1000
+Error Counts: 8, Loss: 0.100494
+Step 263/1000
+Error Counts: 8, Loss: 0.100494
+Step 264/1000
+Error Counts: 8, Loss: 0.100494
+Step 265/1000
+Error Counts: 8, Loss: 0.100488
+Step 266/1000
+Error Counts: 8, Loss: 0.0990216
+Step 267/1000
+Error Counts: 8, Loss: 0.0107302
+Step 268/1000
+All neurons are converged!
+
+Learning completed!
+Error Counts: 9, Loss: 0.000468317
+OUTPUT: 15.0967, ACTIVATED_OUTPUT: 15.0967, BIAS: 2.68391, WEIGHT: 3.01415, -3.00156, -3.1063, -2.26373, -2.73206, -2.22962, 2.42888, 2.75036, 2.48618, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 15.3375, ACTIVATED_OUTPUT: 15.3375, BIAS: 2.64826, WEIGHT: 2.52607, -2.90795, -2.93232, -2.5133, -3.03569, -2.29872, 2.65528, 2.71767, 2.28547, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 15.333, ACTIVATED_OUTPUT: 15.333, BIAS: 2.64826, WEIGHT: 2.88417, -2.29613, -2.97119, -2.97396, -2.78118, -2.52823, 2.71377, 2.30178, 3.1057, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 15.2247, ACTIVATED_OUTPUT: 15.2247, BIAS: 2.80842, WEIGHT: 2.85389, -2.53714, -3.04663, -2.4473, -2.92836, -2.74541, 2.45688, 2.48839, 2.49649, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 15.4214, ACTIVATED_OUTPUT: 15.4214, BIAS: 2.64826, WEIGHT: 2.34345, -3.02465, -2.63119, -2.46281, -3.07972, -2.3228, 2.66472, 2.43729, 2.47194, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 15.2915, ACTIVATED_OUTPUT: 15.2915, BIAS: 2.64826, WEIGHT: 2.70539, -2.92135, -2.94724, -2.87291, -2.57575, -2.94032, 2.42695, 2.79272, 2.63043, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 15.2654, ACTIVATED_OUTPUT: 15.2654, BIAS: 2.64826, WEIGHT: 2.46435, -2.94414, -3.08391, -3.04425, -2.76902, -2.32197, 2.57532, 2.522, 2.61287, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 15.848, ACTIVATED_OUTPUT: 15.848, BIAS: 2.64826, WEIGHT: 2.30548, -2.92366, -2.79006, -2.58476, -2.88434, -3.0811, 2.99104, 2.57862, 2.39854, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 15.0854, ACTIVATED_OUTPUT: 15.0854, BIAS: 2.66266, WEIGHT: 2.58315, -2.80762, -2.89501, -2.45785, -2.35006, -2.2013, 2.99699, 2.81486, 2.50146, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+
+
+OUTPUT: -355.574, ACTIVATED_OUTPUT: -3.55574, BIAS: -0.67265, WEIGHT: -3.05606, -2.7248, -2.24436, -2.53625, -2.60612, -2.41719, -2.44546, -2.11769, -3.04284, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 279.887, ACTIVATED_OUTPUT: 279.887, BIAS: 1.32312, WEIGHT: 1.98829, 1.78745, 2.34222, 2.87819, 1.63324, 1.77789, 1.44524, 1.91711, 2.42497, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: -189.339, ACTIVATED_OUTPUT: -1.89339, BIAS: -1.21558, WEIGHT: -1.22855, -1.5585, -1.4432, -0.871123, -1.60263, -1.5907, -1.41881, -1.45223, -1.09835, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 73.4938, ACTIVATED_OUTPUT: 73.4938, BIAS: -0.269858, WEIGHT: 0.614748, 0.417229, -0.140252, 1.26975, 0.53735, 0.641688, 0.324013, 0.461204, 0.699239, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 443.119, ACTIVATED_OUTPUT: 443.119, BIAS: 0.723435, WEIGHT: 3.38753, 3.39796, 3.04513, 3.8169, 2.98039, 3.42807, 2.93986, 2.47081, 3.44168, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 322.452, ACTIVATED_OUTPUT: 322.452, BIAS: 1.77506, WEIGHT: 2.04858, 1.96714, 2.58407, 2.99297, 2.58094, 2.352, 1.91917, 1.81044, 2.6936, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: -307.843, ACTIVATED_OUTPUT: -3.07843, BIAS: -1.87595, WEIGHT: -2.28918, -1.72118, -2.09706, -2.15027, -2.13291, -2.58246, -2.39408, -2.24704, -2.35842, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 322.11, ACTIVATED_OUTPUT: 322.11, BIAS: 0.925455, WEIGHT: 2.43999, 2.00571, 2.00597, 3.02805, 2.50745, 2.35177, 1.85684, 2.44371, 2.32168, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 531.673, ACTIVATED_OUTPUT: 531.673, BIAS: 2.75924, WEIGHT: 4.10578, 4.0145, 4.21104, 3.85169, 3.65328, 4.12338, 3.53548, 3.42263, 3.61576, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+
+
+OUTPUT: 3952.28, ACTIVATED_OUTPUT: 3952.28, BIAS: 2.64826, WEIGHT: -3.48916, 2.21731, -4.00244, 0.663772, 2.92423, -0.0940606, -4.16799, 1.00651, 3.11804, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 3992.17, ACTIVATED_OUTPUT: 3992.17, BIAS: 2.7676, WEIGHT: -4.48274, 1.94457, -3.65893, 0.166758, 3.36752, 0.620621, -4.30809, 0.833678, 2.70069, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 3759.78, ACTIVATED_OUTPUT: 3759.78, BIAS: 2.68391, WEIGHT: -4.78981, 1.5547, -4.25137, 0.609892, 2.82425, 0.673997, -4.85779, -0.100083, 3.38652, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 3674.97, ACTIVATED_OUTPUT: 3674.97, BIAS: 2.64826, WEIGHT: -3.68756, 1.8396, -4.1039, 0.595759, 2.54797, 0.307612, -4.32987, 0.645037, 3.09105, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 3146.01, ACTIVATED_OUTPUT: 3146.01, BIAS: 3.14985, WEIGHT: -4.76508, 1.83295, -4.11017, -1.91811, 2.42297, 0.292585, -4.32464, 0.486128, 2.64858, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 3539.49, ACTIVATED_OUTPUT: 3539.49, BIAS: 2.75737, WEIGHT: -5.04091, 2.22022, -4.24255, 0.291527, 2.77974, -0.0963727, -4.62007, -0.0805263, 3.15791, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 3730.33, ACTIVATED_OUTPUT: 3730.33, BIAS: 2.71971, WEIGHT: -4.50352, 2.23687, -3.9076, 0.436742, 2.35002, 0.306978, -4.6537, 0.229793, 3.41818, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 3850.74, ACTIVATED_OUTPUT: 3850.74, BIAS: 2.7447, WEIGHT: -4.59369, 1.86577, -3.89392, 0.349985, 2.79969, 0.54213, -4.28968, 0.37079, 3.2507, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
+OUTPUT: 3998.22, ACTIVATED_OUTPUT: 3998.22, BIAS: 2.64826, WEIGHT: -3.95389, 1.48563, -4.23235, 1.12619, 3.21774, 0.739014, -4.78077, 0.890713, 2.83852, PROBABILITY: 1.11818e-20, 0.00235121, 2.78379e-104, 4.10519e-141, 0, 5.95223e-200, 4.50256e-117, 8.8724e-65, 0.997649, 
